@@ -1,0 +1,300 @@
+Season,Round,CircuitID,Position,Points,DriverID,Code,PermanentNumber,GivenName,FamilyName,DateOfBirth,Nationality,ConstructorName,ConstructorNationality,Grid,Laps,Status,Time,FastestLapTime,FastestLapLap,AverageSpeed
+2024,1,bahrain,1,26.0,max_verstappen,VER,33,Max,Verstappen,1997-09-30,Dutch,Red Bull,Austrian,1,57,Finished,1:31:44.742,1:32.608,39,210.383
+2024,1,bahrain,2,18.0,perez,PER,11,Sergio,Pérez,1990-01-26,Mexican,Red Bull,Austrian,5,57,Finished,+22.457,1:34.364,40,206.468
+2024,1,bahrain,3,15.0,sainz,SAI,55,Carlos,Sainz,1994-09-01,Spanish,Ferrari,Italian,4,57,Finished,+25.110,1:34.507,44,206.156
+2024,1,bahrain,4,12.0,leclerc,LEC,16,Charles,Leclerc,1997-10-16,Monegasque,Ferrari,Italian,2,57,Finished,+39.669,1:34.090,36,207.069
+2024,1,bahrain,5,10.0,russell,RUS,63,George,Russell,1998-02-15,British,Mercedes,German,3,57,Finished,+46.788,1:35.065,40,204.946
+2024,1,bahrain,6,8.0,norris,NOR,4,Lando,Norris,1999-11-13,British,McLaren,British,7,57,Finished,+48.458,1:34.476,1,206.223
+2024,1,bahrain,7,6.0,hamilton,HAM,44,Lewis,Hamilton,1985-01-07,British,Mercedes,German,9,57,Finished,+50.324,1:34.722,39,205.688
+2024,1,bahrain,8,4.0,piastri,PIA,81,Oscar,Piastri,2001-04-06,Australian,McLaren,British,8,57,Finished,+56.082,1:34.983,1,205.123
+2024,1,bahrain,9,2.0,alonso,ALO,14,Fernando,Alonso,1981-07-29,Spanish,Aston Martin,British,6,57,Finished,+1:14.887,1:34.199,48,206.830
+2024,1,bahrain,10,1.0,stroll,STR,18,Lance,Stroll,1998-10-29,Canadian,Aston Martin,British,12,57,Finished,+1:33.216,1:35.632,30,203.730
+2024,1,bahrain,11,0.0,zhou,ZHO,24,Guanyu,Zhou,1999-05-30,Chinese,Sauber,Swiss,17,56,+1 Lap,0,1:35.458,30,204.102
+2024,1,bahrain,12,0.0,kevin_magnussen,MAG,20,Kevin,Magnussen,1992-10-05,Danish,Haas F1 Team,American,15,56,+1 Lap,0,1:35.570,34,203.863
+2024,1,bahrain,13,0.0,ricciardo,RIC,3,Daniel,Ricciardo,1989-07-01,Australian,RB F1 Team,Italian,14,56,+1 Lap,0,1:35.163,37,204.735
+2024,1,bahrain,14,0.0,tsunoda,TSU,22,Yuki,Tsunoda,2000-05-11,Japanese,RB F1 Team,Italian,11,56,+1 Lap,0,1:35.833,37,203.303
+2024,1,bahrain,15,0.0,albon,ALB,23,Alexander,Albon,1996-03-23,Thai,Williams,British,13,56,+1 Lap,0,1:35.723,40,203.537
+2024,1,bahrain,16,0.0,hulkenberg,HUL,27,Nico,Hülkenberg,1987-08-19,German,Haas F1 Team,American,10,56,+1 Lap,0,1:34.834,46,205.445
+2024,1,bahrain,17,0.0,ocon,OCO,31,Esteban,Ocon,1996-09-17,French,Alpine F1 Team,French,19,56,+1 Lap,0,1:36.226,34,202.473
+2024,1,bahrain,18,0.0,gasly,GAS,10,Pierre,Gasly,1996-02-07,French,Alpine F1 Team,French,20,56,+1 Lap,0,1:34.805,45,205.508
+2024,1,bahrain,19,0.0,bottas,BOT,77,Valtteri,Bottas,1989-08-28,Finnish,Sauber,Swiss,16,56,+1 Lap,0,1:36.202,33,202.523
+2024,1,bahrain,20,0.0,sargeant,SAR,2,Logan,Sargeant,2000-12-31,American,Williams,British,18,55,+2 Laps,0,1:34.735,42,205.659
+2024,2,jeddah,1,25.0,max_verstappen,VER,33,Max,Verstappen,1997-09-30,Dutch,Red Bull,Austrian,1,50,Finished,1:20:43.273,1:31.773,50,242.188
+2024,2,jeddah,2,18.0,perez,PER,11,Sergio,Pérez,1990-01-26,Mexican,Red Bull,Austrian,3,50,Finished,+13.6431,1:32.273,37,240.876
+2024,2,jeddah,3,16.0,leclerc,LEC,16,Charles,Leclerc,1997-10-16,Monegasque,Ferrari,Italian,2,50,Finished,+18.639,1:31.632,50,242.561
+2024,2,jeddah,4,12.0,piastri,PIA,81,Oscar,Piastri,2001-04-06,Australian,McLaren,British,5,50,Finished,+32.007,1:32.310,1,240.779
+2024,2,jeddah,5,10.0,alonso,ALO,14,Fernando,Alonso,1981-07-29,Spanish,Aston Martin,British,4,50,Finished,+35.759,1:32.387,43,240.579
+2024,2,jeddah,6,8.0,russell,RUS,63,George,Russell,1998-02-15,British,Mercedes,German,7,50,Finished,+39.936,1:32.254,42,240.926
+2024,2,jeddah,7,6.0,bearman,BEA,38,Oliver,Bearman,2005-05-08,British,Ferrari,Italian,11,50,Finished,+42.679,1:32.186,50,241.103
+2024,2,jeddah,8,4.0,norris,NOR,4,Lando,Norris,1999-11-13,British,McLaren,British,6,50,Finished,+45.708,1:31.944,1,241.738
+2024,2,jeddah,9,2.0,hamilton,HAM,44,Lewis,Hamilton,1985-01-07,British,Mercedes,German,8,50,Finished,+47.391,1:31.746,38,242.260
+2024,2,jeddah,10,1.0,hulkenberg,HUL,27,Nico,Hülkenberg,1987-08-19,German,Haas F1 Team,American,15,50,Finished,+1:16.996,1:32.366,49,240.633
+2024,2,jeddah,11,0.0,albon,ALB,23,Alexander,Albon,1996-03-23,Thai,Williams,British,12,50,Finished,+1:28.354,1:32.307,50,240.787
+2024,2,jeddah,12,0.0,kevin_magnussen,MAG,20,Kevin,Magnussen,1992-10-05,Danish,Haas F1 Team,American,13,50,Finished,+1:45.7373,1:32.338,47,240.706
+2024,2,jeddah,13,0.0,ocon,OCO,31,Esteban,Ocon,1996-09-17,French,Alpine F1 Team,French,17,49,+1 Lap,0,1:33.481,48,237.763
+2024,2,jeddah,14,0.0,sargeant,SAR,2,Logan,Sargeant,2000-12-31,American,Williams,British,19,49,+1 Lap,0,1:33.523,44,237.657
+2024,2,jeddah,15,0.0,tsunoda,TSU,22,Yuki,Tsunoda,2000-05-11,Japanese,RB F1 Team,Italian,9,49,+1 Lap,0,1:33.026,49,238.926
+2024,2,jeddah,16,0.0,ricciardo,RIC,3,Daniel,Ricciardo,1989-07-01,Australian,RB F1 Team,Italian,14,49,+1 Lap,0,1:33.323,47,238.166
+2024,2,jeddah,17,0.0,bottas,BOT,77,Valtteri,Bottas,1989-08-28,Finnish,Sauber,Swiss,16,49,+1 Lap,0,1:32.706,49,239.751
+2024,2,jeddah,18,0.0,zhou,ZHO,24,Guanyu,Zhou,1999-05-30,Chinese,Sauber,Swiss,20,49,+1 Lap,0,1:32.208,49,241.046
+2024,2,jeddah,19,0.0,stroll,STR,18,Lance,Stroll,1998-10-29,Canadian,Aston Martin,British,10,5,Accident,0,1:35.560,5,232.591
+2024,2,jeddah,20,0.0,gasly,GAS,10,Pierre,Gasly,1996-02-07,French,Alpine F1 Team,French,18,1,Gearbox,0,0,0,0
+2024,3,albert_park,1,25.0,sainz,SAI,55,Carlos,Sainz,1994-09-01,Spanish,Ferrari,Italian,2,58,Finished,1:20:26.843,1:20.031,48,237.418
+2024,3,albert_park,2,19.0,leclerc,LEC,16,Charles,Leclerc,1997-10-16,Monegasque,Ferrari,Italian,4,58,Finished,+2.366,1:19.813,56,238.066
+2024,3,albert_park,3,15.0,norris,NOR,4,Lando,Norris,1999-11-13,British,McLaren,British,3,58,Finished,+5.904,1:19.915,1,237.762
+2024,3,albert_park,4,12.0,piastri,PIA,81,Oscar,Piastri,2001-04-06,Australian,McLaren,British,5,58,Finished,+35.770,1:20.199,1,236.920
+2024,3,albert_park,5,10.0,perez,PER,11,Sergio,Pérez,1990-01-26,Mexican,Red Bull,Austrian,6,58,Finished,+56.309,1:20.388,47,236.363
+2024,3,albert_park,6,8.0,stroll,STR,18,Lance,Stroll,1998-10-29,Canadian,Aston Martin,British,9,58,Finished,+1:33.222,1:20.930,49,234.780
+2024,3,albert_park,7,6.0,tsunoda,TSU,22,Yuki,Tsunoda,2000-05-11,Japanese,RB F1 Team,Italian,8,58,Finished,+1:35.601,1:21.134,46,234.190
+2024,3,albert_park,8,4.0,alonso,ALO,14,Fernando,Alonso,1981-07-29,Spanish,Aston Martin,British,10,58,Finished,+1:40.992,1:20.493,52,236.055
+2024,3,albert_park,9,2.0,hulkenberg,HUL,27,Nico,Hülkenberg,1987-08-19,German,Haas F1 Team,American,16,58,Finished,+1:44.553,1:21.145,46,234.158
+2024,3,albert_park,10,1.0,kevin_magnussen,MAG,20,Kevin,Magnussen,1992-10-05,Danish,Haas F1 Team,American,14,57,+1 Lap,0,1:21.082,44,234.340
+2024,3,albert_park,11,0.0,albon,ALB,23,Alexander,Albon,1996-03-23,Thai,Williams,British,12,57,+1 Lap,0,1:21.618,46,232.801
+2024,3,albert_park,12,0.0,ricciardo,RIC,3,Daniel,Ricciardo,1989-07-01,Australian,RB F1 Team,Italian,18,57,+1 Lap,0,1:21.239,46,233.887
+2024,3,albert_park,13,0.0,gasly,GAS,10,Pierre,Gasly,1996-02-07,French,Alpine F1 Team,French,17,57,+1 Lap,0,1:21.090,51,234.317
+2024,3,albert_park,14,0.0,bottas,BOT,77,Valtteri,Bottas,1989-08-28,Finnish,Sauber,Swiss,13,57,+1 Lap,0,1:21.422,48,233.361
+2024,3,albert_park,15,0.0,zhou,ZHO,24,Guanyu,Zhou,1999-05-30,Chinese,Sauber,Swiss,19,57,+1 Lap,0,1:21.327,49,233.634
+2024,3,albert_park,16,0.0,ocon,OCO,31,Esteban,Ocon,1996-09-17,French,Alpine F1 Team,French,15,57,+1 Lap,0,1:21.354,45,233.557
+2024,3,albert_park,17,0.0,russell,RUS,63,George,Russell,1998-02-15,British,Mercedes,German,7,56,Accident,0,1:20.284,53,236.669
+2024,3,albert_park,18,0.0,hamilton,HAM,44,Lewis,Hamilton,1985-01-07,British,Mercedes,German,11,15,Engine,0,1:22.444,11,230.469
+2024,3,albert_park,19,0.0,max_verstappen,VER,33,Max,Verstappen,1997-09-30,Dutch,Red Bull,Austrian,1,3,Brakes,0,1:23.115,3,228.608
+2024,4,suzuka,1,26.0,max_verstappen,VER,33,Max,Verstappen,1997-09-30,Dutch,Red Bull,Austrian,1,53,Finished,1:54:23.566,1:33.706,50,223.093
+2024,4,suzuka,2,18.0,perez,PER,11,Sergio,Pérez,1990-01-26,Mexican,Red Bull,Austrian,2,53,Finished,+12.535,1:33.945,35,222.525
+2024,4,suzuka,3,15.0,sainz,SAI,55,Carlos,Sainz,1994-09-01,Spanish,Ferrari,Italian,4,53,Finished,+20.866,1:33.841,46,222.772
+2024,4,suzuka,4,12.0,leclerc,LEC,16,Charles,Leclerc,1997-10-16,Monegasque,Ferrari,Italian,8,53,Finished,+26.522,1:35.044,53,219.952
+2024,4,suzuka,5,10.0,norris,NOR,4,Lando,Norris,1999-11-13,British,McLaren,British,3,53,Finished,+29.700,1:35.186,1,219.624
+2024,4,suzuka,6,8.0,alonso,ALO,14,Fernando,Alonso,1981-07-29,Spanish,Aston Martin,British,5,53,Finished,+44.272,1:34.726,53,220.691
+2024,4,suzuka,7,6.0,russell,RUS,63,George,Russell,1998-02-15,British,Mercedes,German,9,53,Finished,+45.951,1:34.404,39,221.444
+2024,4,suzuka,8,4.0,piastri,PIA,81,Oscar,Piastri,2001-04-06,Australian,McLaren,British,6,53,Finished,+47.525,1:34.802,1,220.514
+2024,4,suzuka,9,2.0,hamilton,HAM,44,Lewis,Hamilton,1985-01-07,British,Mercedes,German,7,53,Finished,+48.626,1:33.952,41,222.509
+2024,4,suzuka,10,1.0,tsunoda,TSU,22,Yuki,Tsunoda,2000-05-11,Japanese,RB F1 Team,Italian,10,52,+1 Lap,0,1:36.342,51,216.989
+2024,4,suzuka,11,0.0,hulkenberg,HUL,27,Nico,Hülkenberg,1987-08-19,German,Haas F1 Team,American,12,52,+1 Lap,0,1:35.325,52,219.304
+2024,4,suzuka,12,0.0,stroll,STR,18,Lance,Stroll,1998-10-29,Canadian,Aston Martin,British,16,52,+1 Lap,0,1:35.798,41,218.221
+2024,4,suzuka,13,0.0,kevin_magnussen,MAG,20,Kevin,Magnussen,1992-10-05,Danish,Haas F1 Team,American,18,52,+1 Lap,0,1:36.654,24,216.289
+2024,4,suzuka,14,0.0,bottas,BOT,77,Valtteri,Bottas,1989-08-28,Finnish,Sauber,Swiss,13,52,+1 Lap,0,1:36.608,25,216.392
+2024,4,suzuka,15,0.0,ocon,OCO,31,Esteban,Ocon,1996-09-17,French,Alpine F1 Team,French,15,52,+1 Lap,0,1:36.232,52,217.237
+2024,4,suzuka,16,0.0,gasly,GAS,10,Pierre,Gasly,1996-02-07,French,Alpine F1 Team,French,17,52,+1 Lap,0,1:36.642,48,216.315
+2024,4,suzuka,17,0.0,sargeant,SAR,2,Logan,Sargeant,2000-12-31,American,Williams,British,19,52,+1 Lap,0,1:34.900,43,220.286
+2024,4,suzuka,18,0.0,zhou,ZHO,24,Guanyu,Zhou,1999-05-30,Chinese,Sauber,Swiss,20,12,Gearbox,0,1:37.160,9,215.162
+2024,4,suzuka,19,0.0,ricciardo,RIC,3,Daniel,Ricciardo,1989-07-01,Australian,RB F1 Team,Italian,11,0,Accident,0,0,0,0
+2024,4,suzuka,20,0.0,albon,ALB,23,Alexander,Albon,1996-03-23,Thai,Williams,British,14,0,Accident,0,0,0,0
+2024,5,shanghai,1,25.0,max_verstappen,VER,33,Max,Verstappen,1997-09-30,Dutch,Red Bull,Austrian,1,56,Finished,1:40:52.554,1:38.406,33,199.414
+2024,5,shanghai,2,18.0,norris,NOR,4,Lando,Norris,1999-11-13,British,McLaren,British,4,56,Finished,+13.773,1:38.751,1,198.717
+2024,5,shanghai,3,15.0,perez,PER,11,Sergio,Pérez,1990-01-26,Mexican,Red Bull,Austrian,2,56,Finished,+19.160,1:39.388,33,197.444
+2024,5,shanghai,4,12.0,leclerc,LEC,16,Charles,Leclerc,1997-10-16,Monegasque,Ferrari,Italian,6,56,Finished,+23.623,1:39.384,33,197.452
+2024,5,shanghai,5,10.0,sainz,SAI,55,Carlos,Sainz,1994-09-01,Spanish,Ferrari,Italian,7,56,Finished,+33.983,1:39.764,19,196.700
+2024,5,shanghai,6,8.0,russell,RUS,63,George,Russell,1998-02-15,British,Mercedes,German,8,56,Finished,+38.724,1:40.112,39,196.016
+2024,5,shanghai,7,7.0,alonso,ALO,14,Fernando,Alonso,1981-07-29,Spanish,Aston Martin,British,3,56,Finished,+43.414,1:37.810,45,200.629
+2024,5,shanghai,8,4.0,piastri,PIA,81,Oscar,Piastri,2001-04-06,Australian,McLaren,British,5,56,Finished,+56.198,1:39.739,1,196.749
+2024,5,shanghai,9,2.0,hamilton,HAM,44,Lewis,Hamilton,1985-01-07,British,Mercedes,German,18,56,Finished,+57.986,1:40.835,34,194.610
+2024,5,shanghai,10,1.0,hulkenberg,HUL,27,Nico,Hülkenberg,1987-08-19,German,Haas F1 Team,American,9,56,Finished,+1:00.476,1:40.815,32,194.649
+2024,5,shanghai,11,0.0,ocon,OCO,31,Esteban,Ocon,1996-09-17,French,Alpine F1 Team,French,13,56,Finished,+1:02.812,1:40.937,33,194.414
+2024,5,shanghai,12,0.0,albon,ALB,23,Alexander,Albon,1996-03-23,Thai,Williams,British,14,56,Finished,+1:05.506,1:40.790,34,194.697
+2024,5,shanghai,13,0.0,gasly,GAS,10,Pierre,Gasly,1996-02-07,French,Alpine F1 Team,French,15,56,Finished,+1:09.223,1:39.198,40,197.822
+2024,5,shanghai,14,0.0,zhou,ZHO,24,Guanyu,Zhou,1999-05-30,Chinese,Sauber,Swiss,16,56,Finished,+1:11.689,1:38.633,42,198.955
+2024,5,shanghai,15,0.0,stroll,STR,18,Lance,Stroll,1998-10-29,Canadian,Aston Martin,British,11,56,Finished,+1:22.786,1:39.444,37,197.333
+2024,5,shanghai,16,0.0,kevin_magnussen,MAG,20,Kevin,Magnussen,1992-10-05,Danish,Haas F1 Team,American,17,56,Finished,+1:27.533,1:41.077,45,194.145
+2024,5,shanghai,17,0.0,sargeant,SAR,2,Logan,Sargeant,2000-12-31,American,Williams,British,20,56,Finished,+1:35.110,1:41.000,14,194.293
+2024,5,shanghai,18,0.0,ricciardo,RIC,3,Daniel,Ricciardo,1989-07-01,Australian,RB F1 Team,Italian,12,33,Retired,0,1:40.994,16,194.304
+2024,5,shanghai,19,0.0,tsunoda,TSU,22,Yuki,Tsunoda,2000-05-11,Japanese,RB F1 Team,Italian,19,26,Retired,0,1:41.593,11,193.158
+2024,5,shanghai,20,0.0,bottas,BOT,77,Valtteri,Bottas,1989-08-28,Finnish,Sauber,Swiss,10,19,Retired,0,1:41.276,11,193.763
+2024,6,miami,1,25.0,norris,NOR,4,Lando,Norris,1999-11-13,British,McLaren,British,5,57,Finished,1:30:49.876,1:30.980,55,214.148
+2024,6,miami,2,18.0,max_verstappen,VER,33,Max,Verstappen,1997-09-30,Dutch,Red Bull,Austrian,1,57,Finished,+7.612,1:31.261,48,213.488
+2024,6,miami,3,15.0,leclerc,LEC,16,Charles,Leclerc,1997-10-16,Monegasque,Ferrari,Italian,2,57,Finished,+9.920,1:31.084,56,213.903
+2024,6,miami,4,12.0,perez,PER,11,Sergio,Pérez,1990-01-26,Mexican,Red Bull,Austrian,4,57,Finished,+14.650,1:30.855,55,214.442
+2024,6,miami,5,10.0,sainz,SAI,55,Carlos,Sainz,1994-09-01,Spanish,Ferrari,Italian,3,57,Finished,+16.407,1:30.928,55,214.270
+2024,6,miami,6,8.0,hamilton,HAM,44,Lewis,Hamilton,1985-01-07,British,Mercedes,German,8,57,Finished,+16.585,1:31.233,54,213.554
+2024,6,miami,7,6.0,tsunoda,TSU,22,Yuki,Tsunoda,2000-05-11,Japanese,RB F1 Team,Italian,10,57,Finished,+26.185,1:31.682,55,212.508
+2024,6,miami,8,4.0,russell,RUS,63,George,Russell,1998-02-15,British,Mercedes,German,7,57,Finished,+34.789,1:31.921,43,211.955
+2024,6,miami,9,2.0,alonso,ALO,14,Fernando,Alonso,1981-07-29,Spanish,Aston Martin,British,15,57,Finished,+37.107,1:31.727,55,212.404
+2024,6,miami,10,1.0,ocon,OCO,31,Esteban,Ocon,1996-09-17,French,Alpine F1 Team,French,13,57,Finished,+39.746,1:32.037,51,211.688
+2024,6,miami,11,0.0,hulkenberg,HUL,27,Nico,Hülkenberg,1987-08-19,German,Haas F1 Team,American,9,57,Finished,+40.789,1:31.941,56,211.909
+2024,6,miami,12,0.0,gasly,GAS,10,Pierre,Gasly,1996-02-07,French,Alpine F1 Team,French,12,57,Finished,+44.958,1:32.055,56,211.647
+2024,6,miami,13,0.0,piastri,PIA,81,Oscar,Piastri,2001-04-06,Australian,McLaren,British,6,57,Finished,+49.756,1:30.634,43,214.965
+2024,6,miami,14,0.0,zhou,ZHO,24,Guanyu,Zhou,1999-05-30,Chinese,Sauber,Swiss,19,57,Finished,+49.979,1:31.991,56,211.794
+2024,6,miami,15,0.0,ricciardo,RIC,3,Daniel,Ricciardo,1989-07-01,Australian,RB F1 Team,Italian,20,57,Finished,+50.956,1:32.122,57,211.493
+2024,6,miami,16,0.0,bottas,BOT,77,Valtteri,Bottas,1989-08-28,Finnish,Sauber,Swiss,16,57,Finished,+52.356,1:32.098,55,211.548
+2024,6,miami,17,0.0,stroll,STR,18,Lance,Stroll,1998-10-29,Canadian,Aston Martin,British,11,57,Finished,+55.173,1:31.588,57,212.726
+2024,6,miami,18,0.0,albon,ALB,23,Alexander,Albon,1996-03-23,Thai,Williams,British,14,57,Finished,+1:16.091,1:30.849,55,214.456
+2024,6,miami,19,0.0,kevin_magnussen,MAG,20,Kevin,Magnussen,1992-10-05,Danish,Haas F1 Team,American,18,57,Finished,+1:24.683,1:31.774,33,212.295
+2024,6,miami,20,0.0,sargeant,SAR,2,Logan,Sargeant,2000-12-31,American,Williams,British,17,27,Collision,0,1:33.452,15,208.483
+2024,7,imola,1,25.0,max_verstappen,VER,33,Max,Verstappen,1997-09-30,Dutch,Red Bull,Austrian,1,63,Finished,1:25:25.252,1:20.366,38,219.898
+2024,7,imola,2,18.0,norris,NOR,4,Lando,Norris,1999-11-13,British,McLaren,British,2,63,Finished,+0.725,1:19.994,54,220.921
+2024,7,imola,3,15.0,leclerc,LEC,16,Charles,Leclerc,1997-10-16,Monegasque,Ferrari,Italian,3,63,Finished,+7.916,1:19.935,27,221.084
+2024,7,imola,4,12.0,piastri,PIA,81,Oscar,Piastri,2001-04-06,Australian,McLaren,British,5,63,Finished,+14.132,1:19.907,25,221.162
+2024,7,imola,5,10.0,sainz,SAI,55,Carlos,Sainz,1994-09-01,Spanish,Ferrari,Italian,4,63,Finished,+22.325,1:20.220,63,220.299
+2024,7,imola,6,8.0,hamilton,HAM,44,Lewis,Hamilton,1985-01-07,British,Mercedes,German,8,63,Finished,+35.104,1:20.331,43,219.994
+2024,7,imola,7,7.0,russell,RUS,63,George,Russell,1998-02-15,British,Mercedes,German,6,63,Finished,+47.154,1:18.589,54,224.871
+2024,7,imola,8,4.0,perez,PER,11,Sergio,Pérez,1990-01-26,Mexican,Red Bull,Austrian,11,63,Finished,+54.776,1:19.686,52,221.775
+2024,7,imola,9,2.0,stroll,STR,18,Lance,Stroll,1998-10-29,Canadian,Aston Martin,British,13,63,Finished,+1:19.556,1:20.570,58,219.342
+2024,7,imola,10,1.0,tsunoda,TSU,22,Yuki,Tsunoda,2000-05-11,Japanese,RB F1 Team,Italian,7,62,+1 Lap,0,1:20.936,14,218.350
+2024,7,imola,11,0.0,hulkenberg,HUL,27,Nico,Hülkenberg,1987-08-19,German,Haas F1 Team,American,10,62,+1 Lap,0,1:21.700,3,216.308
+2024,7,imola,12,0.0,kevin_magnussen,MAG,20,Kevin,Magnussen,1992-10-05,Danish,Haas F1 Team,American,18,62,+1 Lap,0,1:21.009,58,218.153
+2024,7,imola,13,0.0,ricciardo,RIC,3,Daniel,Ricciardo,1989-07-01,Australian,RB F1 Team,Italian,9,62,+1 Lap,0,1:21.569,13,216.655
+2024,7,imola,14,0.0,ocon,OCO,31,Esteban,Ocon,1996-09-17,French,Alpine F1 Team,French,12,62,+1 Lap,0,1:21.304,37,217.361
+2024,7,imola,15,0.0,zhou,ZHO,24,Guanyu,Zhou,1999-05-30,Chinese,Sauber,Swiss,17,62,+1 Lap,0,1:21.016,37,218.134
+2024,7,imola,16,0.0,gasly,GAS,10,Pierre,Gasly,1996-02-07,French,Alpine F1 Team,French,15,62,+1 Lap,0,1:21.371,10,217.183
+2024,7,imola,17,0.0,sargeant,SAR,2,Logan,Sargeant,2000-12-31,American,Williams,British,19,62,+1 Lap,0,1:21.229,55,217.562
+2024,7,imola,18,0.0,bottas,BOT,77,Valtteri,Bottas,1989-08-28,Finnish,Sauber,Swiss,16,62,+1 Lap,0,1:21.455,11,216.959
+2024,7,imola,19,0.0,alonso,ALO,14,Fernando,Alonso,1981-07-29,Spanish,Aston Martin,British,20,62,+1 Lap,0,1:19.004,62,223.689
+2024,7,imola,20,0.0,albon,ALB,23,Alexander,Albon,1996-03-23,Thai,Williams,British,14,51,Retired,0,1:21.274,48,217.442
+2024,8,monaco,1,25.0,leclerc,LEC,16,Charles,Leclerc,1997-10-16,Monegasque,Ferrari,Italian,1,78,Finished,2:23:15.554,0,0,0
+2024,8,monaco,2,18.0,piastri,PIA,81,Oscar,Piastri,2001-04-06,Australian,McLaren,British,2,78,Finished,+7.152,0,0,0
+2024,8,monaco,3,15.0,sainz,SAI,55,Carlos,Sainz,1994-09-01,Spanish,Ferrari,Italian,3,78,Finished,+7.585,0,0,0
+2024,8,monaco,4,12.0,norris,NOR,4,Lando,Norris,1999-11-13,British,McLaren,British,4,78,Finished,+8.650,0,0,0
+2024,8,monaco,5,10.0,russell,RUS,63,George,Russell,1998-02-15,British,Mercedes,German,5,78,Finished,+13.309,0,0,0
+2024,8,monaco,6,8.0,max_verstappen,VER,33,Max,Verstappen,1997-09-30,Dutch,Red Bull,Austrian,6,78,Finished,+13.853,0,0,0
+2024,8,monaco,7,7.0,hamilton,HAM,44,Lewis,Hamilton,1985-01-07,British,Mercedes,German,7,78,Finished,+14.908,0,0,0
+2024,8,monaco,8,4.0,tsunoda,TSU,22,Yuki,Tsunoda,2000-05-11,Japanese,RB F1 Team,Italian,8,77,+1 Lap,0,0,0,0
+2024,8,monaco,9,2.0,albon,ALB,23,Alexander,Albon,1996-03-23,Thai,Williams,British,9,77,+1 Lap,0,0,0,0
+2024,8,monaco,10,1.0,gasly,GAS,10,Pierre,Gasly,1996-02-07,French,Alpine F1 Team,French,10,77,+1 Lap,0,0,0,0
+2024,8,monaco,11,0.0,alonso,ALO,14,Fernando,Alonso,1981-07-29,Spanish,Aston Martin,British,14,76,+2 Laps,0,0,0,0
+2024,8,monaco,12,0.0,ricciardo,RIC,3,Daniel,Ricciardo,1989-07-01,Australian,RB F1 Team,Italian,12,76,+2 Laps,0,0,0,0
+2024,8,monaco,13,0.0,bottas,BOT,77,Valtteri,Bottas,1989-08-28,Finnish,Sauber,Swiss,17,76,+2 Laps,0,0,0,0
+2024,8,monaco,14,0.0,stroll,STR,18,Lance,Stroll,1998-10-29,Canadian,Aston Martin,British,13,76,+2 Laps,0,0,0,0
+2024,8,monaco,15,0.0,sargeant,SAR,2,Logan,Sargeant,2000-12-31,American,Williams,British,15,76,+2 Laps,0,0,0,0
+2024,8,monaco,16,0.0,zhou,ZHO,24,Guanyu,Zhou,1999-05-30,Chinese,Sauber,Swiss,18,76,+2 Laps,0,0,0,0
+2024,8,monaco,17,0.0,ocon,OCO,31,Esteban,Ocon,1996-09-17,French,Alpine F1 Team,French,11,0,Collision,0,0,0,0
+2024,8,monaco,18,0.0,perez,PER,11,Sergio,Pérez,1990-01-26,Mexican,Red Bull,Austrian,16,0,Collision,0,0,0,0
+2024,8,monaco,19,0.0,hulkenberg,HUL,27,Nico,Hülkenberg,1987-08-19,German,Haas F1 Team,American,19,0,Collision,0,0,0,0
+2024,8,monaco,20,0.0,kevin_magnussen,MAG,20,Kevin,Magnussen,1992-10-05,Danish,Haas F1 Team,American,20,0,Collision,0,0,0,0
+2024,9,villeneuve,1,25.0,max_verstappen,VER,33,Max,Verstappen,1997-09-30,Dutch,Red Bull,Austrian,2,70,Finished,1:45:47.927,1:15.569,70,207.751
+2024,9,villeneuve,2,18.0,norris,NOR,4,Lando,Norris,1999-11-13,British,McLaren,British,3,70,Finished,+3.879,1:15.558,67,207.782
+2024,9,villeneuve,3,15.0,russell,RUS,63,George,Russell,1998-02-15,British,Mercedes,German,1,70,Finished,+4.317,1:14.895,70,209.621
+2024,9,villeneuve,4,13.0,hamilton,HAM,44,Lewis,Hamilton,1985-01-07,British,Mercedes,German,7,70,Finished,+4.915,1:14.856,70,209.730
+2024,9,villeneuve,5,10.0,piastri,PIA,81,Oscar,Piastri,2001-04-06,Australian,McLaren,British,4,70,Finished,+10.199,1:16.247,65,205.904
+2024,9,villeneuve,6,8.0,alonso,ALO,14,Fernando,Alonso,1981-07-29,Spanish,Aston Martin,British,6,70,Finished,+17.510,1:16.303,70,205.753
+2024,9,villeneuve,7,6.0,stroll,STR,18,Lance,Stroll,1998-10-29,Canadian,Aston Martin,British,9,70,Finished,+23.625,1:16.762,70,204.523
+2024,9,villeneuve,8,4.0,ricciardo,RIC,3,Daniel,Ricciardo,1989-07-01,Australian,RB F1 Team,Italian,5,70,Finished,+28.672,1:17.076,68,203.689
+2024,9,villeneuve,9,2.0,gasly,GAS,10,Pierre,Gasly,1996-02-07,French,Alpine F1 Team,French,15,70,Finished,+30.021,1:17.013,70,203.856
+2024,9,villeneuve,10,1.0,ocon,OCO,31,Esteban,Ocon,1996-09-17,French,Alpine F1 Team,French,18,70,Finished,+30.313,1:17.012,70,203.859
+2024,9,villeneuve,11,0.0,hulkenberg,HUL,27,Nico,Hülkenberg,1987-08-19,German,Haas F1 Team,American,17,70,Finished,+30.824,1:16.683,67,204.733
+2024,9,villeneuve,12,0.0,kevin_magnussen,MAG,20,Kevin,Magnussen,1992-10-05,Danish,Haas F1 Team,American,14,70,Finished,+31.253,1:16.499,68,205.226
+2024,9,villeneuve,13,0.0,bottas,BOT,77,Valtteri,Bottas,1989-08-28,Finnish,Sauber,Swiss,0,70,Finished,+40.487,1:17.250,65,203.231
+2024,9,villeneuve,14,0.0,tsunoda,TSU,22,Yuki,Tsunoda,2000-05-11,Japanese,RB F1 Team,Italian,8,70,Finished,+52.694,1:17.309,70,203.075
+2024,9,villeneuve,15,0.0,zhou,ZHO,24,Guanyu,Zhou,1999-05-30,Chinese,Sauber,Swiss,0,69,+1 Lap,0,1:17.325,68,203.033
+2024,9,villeneuve,16,0.0,sainz,SAI,55,Carlos,Sainz,1994-09-01,Spanish,Ferrari,Italian,12,52,Collision,0,1:18.957,51,198.837
+2024,9,villeneuve,17,0.0,albon,ALB,23,Alexander,Albon,1996-03-23,Thai,Williams,British,10,52,Collision,0,1:19.359,51,197.830
+2024,9,villeneuve,18,0.0,perez,PER,11,Sergio,Pérez,1990-01-26,Mexican,Red Bull,Austrian,16,51,Accident,0,1:18.819,51,199.185
+2024,9,villeneuve,19,0.0,leclerc,LEC,16,Charles,Leclerc,1997-10-16,Monegasque,Ferrari,Italian,11,40,Engine,0,1:26.012,39,182.528
+2024,9,villeneuve,20,0.0,sargeant,SAR,2,Logan,Sargeant,2000-12-31,American,Williams,British,13,23,Accident,0,1:26.484,19,181.531
+2024,10,catalunya,1,25.0,max_verstappen,VER,33,Max,Verstappen,1997-09-30,Dutch,Red Bull,Austrian,2,66,Finished,1:28:20.227,1:17.776,54,215.557
+2024,10,catalunya,2,19.0,norris,NOR,4,Lando,Norris,1999-11-13,British,McLaren,British,1,66,Finished,+2.219,1:17.115,51,217.405
+2024,10,catalunya,3,15.0,hamilton,HAM,44,Lewis,Hamilton,1985-01-07,British,Mercedes,German,3,66,Finished,+17.790,1:17.809,46,215.466
+2024,10,catalunya,4,12.0,russell,RUS,63,George,Russell,1998-02-15,British,Mercedes,German,4,66,Finished,+22.320,1:18.290,50,214.142
+2024,10,catalunya,5,10.0,leclerc,LEC,16,Charles,Leclerc,1997-10-16,Monegasque,Ferrari,Italian,5,66,Finished,+22.709,1:17.897,52,215.222
+2024,10,catalunya,6,8.0,sainz,SAI,55,Carlos,Sainz,1994-09-01,Spanish,Ferrari,Italian,6,66,Finished,+31.028,1:18.539,39,213.463
+2024,10,catalunya,7,6.0,piastri,PIA,81,Oscar,Piastri,2001-04-06,Australian,McLaren,British,9,66,Finished,+33.760,1:17.874,56,215.286
+2024,10,catalunya,8,4.0,perez,PER,11,Sergio,Pérez,1990-01-26,Mexican,Red Bull,Austrian,11,66,Finished,+59.524,1:17.785,51,215.532
+2024,10,catalunya,9,2.0,gasly,GAS,10,Pierre,Gasly,1996-02-07,French,Alpine F1 Team,French,7,66,Finished,+1:02.025,1:19.045,51,212.096
+2024,10,catalunya,10,1.0,ocon,OCO,31,Esteban,Ocon,1996-09-17,French,Alpine F1 Team,French,8,66,Finished,+1:11.889,1:18.982,54,212.266
+2024,10,catalunya,11,0.0,hulkenberg,HUL,27,Nico,Hülkenberg,1987-08-19,German,Haas F1 Team,American,13,66,Finished,+1:19.215,1:18.609,49,213.273
+2024,10,catalunya,12,0.0,alonso,ALO,14,Fernando,Alonso,1981-07-29,Spanish,Aston Martin,British,10,65,+1 Lap,0,1:18.334,50,214.022
+2024,10,catalunya,13,0.0,zhou,ZHO,24,Guanyu,Zhou,1999-05-30,Chinese,Sauber,Swiss,15,65,+1 Lap,0,1:18.771,50,212.834
+2024,10,catalunya,14,0.0,stroll,STR,18,Lance,Stroll,1998-10-29,Canadian,Aston Martin,British,14,65,+1 Lap,0,1:19.318,50,211.366
+2024,10,catalunya,15,0.0,ricciardo,RIC,3,Daniel,Ricciardo,1989-07-01,Australian,RB F1 Team,Italian,18,65,+1 Lap,0,1:19.450,61,211.015
+2024,10,catalunya,16,0.0,bottas,BOT,77,Valtteri,Bottas,1989-08-28,Finnish,Sauber,Swiss,12,65,+1 Lap,0,1:19.608,13,210.596
+2024,10,catalunya,17,0.0,kevin_magnussen,MAG,20,Kevin,Magnussen,1992-10-05,Danish,Haas F1 Team,American,16,65,+1 Lap,0,1:19.805,33,210.077
+2024,10,catalunya,18,0.0,albon,ALB,23,Alexander,Albon,1996-03-23,Thai,Williams,British,0,65,+1 Lap,0,1:19.132,45,211.863
+2024,10,catalunya,19,0.0,tsunoda,TSU,22,Yuki,Tsunoda,2000-05-11,Japanese,RB F1 Team,Italian,17,65,+1 Lap,0,1:19.447,56,211.023
+2024,10,catalunya,20,0.0,sargeant,SAR,2,Logan,Sargeant,2000-12-31,American,Williams,British,19,64,+2 Laps,0,1:20.172,38,209.115
+2024,11,red_bull_ring,1,25.0,russell,RUS,63,George,Russell,1998-02-15,British,Mercedes,German,3,71,Finished,1:24:22.798,1:09.164,48,224.752
+2024,11,red_bull_ring,2,18.0,piastri,PIA,81,Oscar,Piastri,2001-04-06,Australian,McLaren,British,7,71,Finished,+1.906,1:08.697,56,226.280
+2024,11,red_bull_ring,3,15.0,sainz,SAI,55,Carlos,Sainz,1994-09-01,Spanish,Ferrari,Italian,4,71,Finished,+4.533,1:09.282,56,224.369
+2024,11,red_bull_ring,4,12.0,hamilton,HAM,44,Lewis,Hamilton,1985-01-07,British,Mercedes,German,5,71,Finished,+23.142,1:09.562,61,223.466
+2024,11,red_bull_ring,5,10.0,max_verstappen,VER,33,Max,Verstappen,1997-09-30,Dutch,Red Bull,Austrian,1,71,Finished,+37.253,1:07.719,68,229.548
+2024,11,red_bull_ring,6,8.0,hulkenberg,HUL,27,Nico,Hülkenberg,1987-08-19,German,Haas F1 Team,American,9,71,Finished,+54.088,1:10.215,51,221.388
+2024,11,red_bull_ring,7,6.0,perez,PER,11,Sergio,Pérez,1990-01-26,Mexican,Red Bull,Austrian,8,71,Finished,+54.672,1:09.694,56,223.043
+2024,11,red_bull_ring,8,4.0,kevin_magnussen,MAG,20,Kevin,Magnussen,1992-10-05,Danish,Haas F1 Team,American,12,71,Finished,+1:00.355,1:10.125,45,221.672
+2024,11,red_bull_ring,9,2.0,ricciardo,RIC,3,Daniel,Ricciardo,1989-07-01,Australian,RB F1 Team,Italian,11,71,Finished,+1:01.169,1:10.426,49,220.725
+2024,11,red_bull_ring,10,1.0,gasly,GAS,10,Pierre,Gasly,1996-02-07,French,Alpine F1 Team,French,13,71,Finished,+1:01.766,1:09.609,45,223.315
+2024,11,red_bull_ring,11,0.0,leclerc,LEC,16,Charles,Leclerc,1997-10-16,Monegasque,Ferrari,Italian,6,71,Finished,+1:07.056,1:09.584,55,223.396
+2024,11,red_bull_ring,12,0.0,ocon,OCO,31,Esteban,Ocon,1996-09-17,French,Alpine F1 Team,French,10,71,Finished,+1:08.325,1:09.649,45,223.187
+2024,11,red_bull_ring,13,0.0,stroll,STR,18,Lance,Stroll,1998-10-29,Canadian,Aston Martin,British,17,70,+1 Lap,0,1:10.143,54,221.615
+2024,11,red_bull_ring,14,0.0,tsunoda,TSU,22,Yuki,Tsunoda,2000-05-11,Japanese,RB F1 Team,Italian,14,70,+1 Lap,0,1:10.318,54,221.064
+2024,11,red_bull_ring,15,0.0,albon,ALB,23,Alexander,Albon,1996-03-23,Thai,Williams,British,16,70,+1 Lap,0,1:10.364,41,220.919
+2024,11,red_bull_ring,16,0.0,bottas,BOT,77,Valtteri,Bottas,1989-08-28,Finnish,Sauber,Swiss,18,70,+1 Lap,0,1:10.449,48,220.653
+2024,11,red_bull_ring,17,0.0,zhou,ZHO,24,Guanyu,Zhou,1999-05-30,Chinese,Sauber,Swiss,20,70,+1 Lap,0,1:10.470,54,220.587
+2024,11,red_bull_ring,18,0.0,alonso,ALO,14,Fernando,Alonso,1981-07-29,Spanish,Aston Martin,British,15,70,+1 Lap,0,1:07.694,70,229.633
+2024,11,red_bull_ring,19,0.0,sargeant,SAR,2,Logan,Sargeant,2000-12-31,American,Williams,British,19,69,+2 Laps,0,1:10.406,60,220.788
+2024,11,red_bull_ring,20,0.0,norris,NOR,4,Lando,Norris,1999-11-13,British,McLaren,British,2,64,+7 Laps,0,1:08.016,53,228.546
+2024,12,silverstone,1,25.0,hamilton,HAM,44,Lewis,Hamilton,1985-01-07,British,Mercedes,German,2,52,Finished,1:22:27.059,1:29.438,45,237.120
+2024,12,silverstone,2,18.0,max_verstappen,VER,33,Max,Verstappen,1997-09-30,Dutch,Red Bull,Austrian,4,52,Finished,+1.465,1:28.952,48,238.416
+2024,12,silverstone,3,15.0,norris,NOR,4,Lando,Norris,1999-11-13,British,McLaren,British,3,52,Finished,+7.547,1:29.262,43,237.588
+2024,12,silverstone,4,12.0,piastri,PIA,81,Oscar,Piastri,2001-04-06,Australian,McLaren,British,5,52,Finished,+12.429,1:28.748,51,238.964
+2024,12,silverstone,5,11.0,sainz,SAI,55,Carlos,Sainz,1994-09-01,Spanish,Ferrari,Italian,7,52,Finished,+47.318,1:28.293,52,240.195
+2024,12,silverstone,6,8.0,hulkenberg,HUL,27,Nico,Hülkenberg,1987-08-19,German,Haas F1 Team,American,6,52,Finished,+55.722,1:29.836,43,236.070
+2024,12,silverstone,7,6.0,stroll,STR,18,Lance,Stroll,1998-10-29,Canadian,Aston Martin,British,8,52,Finished,+56.569,1:29.897,46,235.909
+2024,12,silverstone,8,4.0,alonso,ALO,14,Fernando,Alonso,1981-07-29,Spanish,Aston Martin,British,10,52,Finished,+1:03.577,1:29.710,47,236.401
+2024,12,silverstone,9,2.0,albon,ALB,23,Alexander,Albon,1996-03-23,Thai,Williams,British,9,52,Finished,+1:08.387,1:29.718,52,236.380
+2024,12,silverstone,10,1.0,tsunoda,TSU,22,Yuki,Tsunoda,2000-05-11,Japanese,RB F1 Team,Italian,13,52,Finished,+1:19.303,1:30.229,43,235.041
+2024,12,silverstone,11,0.0,sargeant,SAR,2,Logan,Sargeant,2000-12-31,American,Williams,British,12,52,Finished,+1:28.960,1:29.972,42,235.713
+2024,12,silverstone,12,0.0,kevin_magnussen,MAG,20,Kevin,Magnussen,1992-10-05,Danish,Haas F1 Team,American,17,52,Finished,+1:30.153,1:30.093,42,235.396
+2024,12,silverstone,13,0.0,ricciardo,RIC,3,Daniel,Ricciardo,1989-07-01,Australian,RB F1 Team,Italian,15,51,+1 Lap,0,1:30.735,47,233.731
+2024,12,silverstone,14,0.0,leclerc,LEC,16,Charles,Leclerc,1997-10-16,Monegasque,Ferrari,Italian,11,51,+1 Lap,0,1:29.748,43,236.301
+2024,12,silverstone,15,0.0,bottas,BOT,77,Valtteri,Bottas,1989-08-28,Finnish,Sauber,Swiss,16,51,+1 Lap,0,1:31.277,44,232.343
+2024,12,silverstone,16,0.0,ocon,OCO,31,Esteban,Ocon,1996-09-17,French,Alpine F1 Team,French,18,50,+2 Laps,0,1:30.875,46,233.371
+2024,12,silverstone,17,0.0,perez,PER,11,Sergio,Pérez,1990-01-26,Mexican,Red Bull,Austrian,0,50,+2 Laps,0,1:29.707,50,236.409
+2024,12,silverstone,18,0.0,zhou,ZHO,24,Guanyu,Zhou,1999-05-30,Chinese,Sauber,Swiss,14,50,+2 Laps,0,1:31.014,43,233.014
+2024,12,silverstone,19,0.0,russell,RUS,63,George,Russell,1998-02-15,British,Mercedes,German,1,33,Water pressure,0,1:31.298,3,232.289
+2024,12,silverstone,20,0.0,gasly,GAS,10,Pierre,Gasly,1996-02-07,French,Alpine F1 Team,French,19,0,Gearbox,0,0,0,0
+2024,13,hungaroring,1,25.0,piastri,PIA,81,Oscar,Piastri,2001-04-06,Australian,McLaren,British,2,70,Finished,1:38:01.989,1:21.716,51,193.005
+2024,13,hungaroring,2,18.0,norris,NOR,4,Lando,Norris,1999-11-13,British,McLaren,British,1,70,Finished,+2.141,1:21.712,50,193.014
+2024,13,hungaroring,3,15.0,hamilton,HAM,44,Lewis,Hamilton,1985-01-07,British,Mercedes,German,5,70,Finished,+14.880,1:22.153,54,191.978
+2024,13,hungaroring,4,12.0,leclerc,LEC,16,Charles,Leclerc,1997-10-16,Monegasque,Ferrari,Italian,6,70,Finished,+19.686,1:22.182,29,191.910
+2024,13,hungaroring,5,10.0,max_verstappen,VER,33,Max,Verstappen,1997-09-30,Dutch,Red Bull,Austrian,3,70,Finished,+21.349,1:20.908,51,194.932
+2024,13,hungaroring,6,8.0,sainz,SAI,55,Carlos,Sainz,1994-09-01,Spanish,Ferrari,Italian,4,70,Finished,+23.073,1:21.441,53,193.656
+2024,13,hungaroring,7,6.0,perez,PER,11,Sergio,Pérez,1990-01-26,Mexican,Red Bull,Austrian,16,70,Finished,+39.792,1:21.096,49,194.480
+2024,13,hungaroring,8,5.0,russell,RUS,63,George,Russell,1998-02-15,British,Mercedes,German,17,70,Finished,+42.368,1:20.305,55,196.396
+2024,13,hungaroring,9,2.0,tsunoda,TSU,22,Yuki,Tsunoda,2000-05-11,Japanese,RB F1 Team,Italian,10,70,Finished,+1:17.259,1:23.533,57,188.806
+2024,13,hungaroring,10,1.0,stroll,STR,18,Lance,Stroll,1998-10-29,Canadian,Aston Martin,British,8,70,Finished,+1:17.976,1:22.338,48,191.547
+2024,13,hungaroring,11,0.0,alonso,ALO,14,Fernando,Alonso,1981-07-29,Spanish,Aston Martin,British,7,70,Finished,+1:22.460,1:23.063,52,189.875
+2024,13,hungaroring,12,0.0,ricciardo,RIC,3,Daniel,Ricciardo,1989-07-01,Australian,RB F1 Team,Italian,9,69,+1 Lap,0,1:22.640,30,190.847
+2024,13,hungaroring,13,0.0,hulkenberg,HUL,27,Nico,Hülkenberg,1987-08-19,German,Haas F1 Team,American,11,69,+1 Lap,0,1:23.461,54,188.969
+2024,13,hungaroring,14,0.0,albon,ALB,23,Alexander,Albon,1996-03-23,Thai,Williams,British,13,69,+1 Lap,0,1:23.930,31,187.913
+2024,13,hungaroring,15,0.0,kevin_magnussen,MAG,20,Kevin,Magnussen,1992-10-05,Danish,Haas F1 Team,American,15,69,+1 Lap,0,1:23.553,50,188.761
+2024,13,hungaroring,16,0.0,bottas,BOT,77,Valtteri,Bottas,1989-08-28,Finnish,Sauber,Swiss,12,69,+1 Lap,0,1:22.792,52,190.496
+2024,13,hungaroring,17,0.0,sargeant,SAR,2,Logan,Sargeant,2000-12-31,American,Williams,British,14,69,+1 Lap,0,1:20.561,65,195.772
+2024,13,hungaroring,18,0.0,ocon,OCO,31,Esteban,Ocon,1996-09-17,French,Alpine F1 Team,French,19,69,+1 Lap,0,1:21.610,66,193.255
+2024,13,hungaroring,19,0.0,zhou,ZHO,24,Guanyu,Zhou,1999-05-30,Chinese,Sauber,Swiss,18,69,+1 Lap,0,1:23.487,38,188.910
+2024,13,hungaroring,20,0.0,gasly,GAS,10,Pierre,Gasly,1996-02-07,French,Alpine F1 Team,French,0,33,Hydraulics,0,1:23.340,31,189.244
+2024,14,spa,1,25.0,hamilton,HAM,44,Lewis,Hamilton,1985-01-07,British,Mercedes,German,3,44,Finished,+0.526,1:47.113,44,235.399
+2024,14,spa,2,18.0,piastri,PIA,81,Oscar,Piastri,2001-04-06,Australian,McLaren,British,5,44,Finished,+1.173,1:46.653,33,236.415
+2024,14,spa,3,15.0,leclerc,LEC,16,Charles,Leclerc,1997-10-16,Monegasque,Ferrari,Italian,1,44,Finished,+8.549,1:45.840,32,238.231
+2024,14,spa,4,12.0,max_verstappen,VER,33,Max,Verstappen,1997-09-30,Dutch,Red Bull,Austrian,11,44,Finished,+9.226,1:47.013,33,235.619
+2024,14,spa,5,10.0,norris,NOR,4,Lando,Norris,1999-11-13,British,McLaren,British,4,44,Finished,+9.850,1:46.128,32,237.584
+2024,14,spa,6,8.0,sainz,SAI,55,Carlos,Sainz,1994-09-01,Spanish,Ferrari,Italian,7,44,Finished,+19.795,1:45.563,31,238.856
+2024,14,spa,7,7.0,perez,PER,11,Sergio,Pérez,1990-01-26,Mexican,Red Bull,Austrian,2,44,Finished,+43.195,1:46.364,44,237.057
+2024,14,spa,8,4.0,alonso,ALO,14,Fernando,Alonso,1981-07-29,Spanish,Aston Martin,British,8,44,Finished,+49.963,1:44.701,44,240.822
+2024,14,spa,9,2.0,ocon,OCO,31,Esteban,Ocon,1996-09-17,French,Alpine F1 Team,French,9,44,Finished,+52.552,1:48.051,42,233.356
+2024,14,spa,10,1.0,ricciardo,RIC,3,Daniel,Ricciardo,1989-07-01,Australian,RB F1 Team,Italian,13,44,Finished,+54.926,1:46.957,43,235.743
+2024,14,spa,11,0.0,stroll,STR,18,Lance,Stroll,1998-10-29,Canadian,Aston Martin,British,15,44,Finished,+1:03.011,1:47.435,37,234.694
+2024,14,spa,12,0.0,albon,ALB,23,Alexander,Albon,1996-03-23,Thai,Williams,British,10,44,Finished,+1:03.651,1:48.105,44,233.239
+2024,14,spa,13,0.0,gasly,GAS,10,Pierre,Gasly,1996-02-07,French,Alpine F1 Team,French,12,44,Finished,+1:04.365,1:47.996,44,233.475
+2024,14,spa,14,0.0,kevin_magnussen,MAG,20,Kevin,Magnussen,1992-10-05,Danish,Haas F1 Team,American,17,44,Finished,+1:06.631,1:47.418,30,234.731
+2024,14,spa,15,0.0,bottas,BOT,77,Valtteri,Bottas,1989-08-28,Finnish,Sauber,Swiss,14,44,Finished,+1:10.638,1:47.848,44,233.795
+2024,14,spa,16,0.0,tsunoda,TSU,22,Yuki,Tsunoda,2000-05-11,Japanese,RB F1 Team,Italian,20,44,Finished,+1:16.737,1:47.019,37,235.606
+2024,14,spa,17,0.0,sargeant,SAR,2,Logan,Sargeant,2000-12-31,American,Williams,British,18,44,Finished,+1:26.057,1:47.969,44,233.533
+2024,14,spa,18,0.0,hulkenberg,HUL,27,Nico,Hülkenberg,1987-08-19,German,Haas F1 Team,American,16,44,Finished,+1:28.833,1:47.490,43,234.574
+2024,14,spa,19,0.0,zhou,ZHO,24,Guanyu,Zhou,1999-05-30,Chinese,Sauber,Swiss,19,5,Retired,0,1:48.954,44,231.422
+2024,14,spa,20,0.0,russell,RUS,63,George,Russell,1998-02-15,British,Mercedes,German,6,44,Disqualified,1:19:57.040,1:52.099,2,224.929
+2024,15,zandvoort,1,26.0,norris,NOR,4,Lando,Norris,1999-11-13,British,McLaren,British,1,72,Finished,1:30:45.519,1:13.817,72,207.708
+2024,15,zandvoort,2,18.0,max_verstappen,VER,33,Max,Verstappen,1997-09-30,Dutch,Red Bull,Austrian,2,72,Finished,+22.896,1:14.752,30,205.110
+2024,15,zandvoort,3,15.0,leclerc,LEC,16,Charles,Leclerc,1997-10-16,Monegasque,Ferrari,Italian,6,72,Finished,+25.439,1:14.585,62,205.569
+2024,15,zandvoort,4,12.0,piastri,PIA,81,Oscar,Piastri,2001-04-06,Australian,McLaren,British,3,72,Finished,+27.337,1:14.237,36,206.533
+2024,15,zandvoort,5,10.0,sainz,SAI,55,Carlos,Sainz,1994-09-01,Spanish,Ferrari,Italian,10,72,Finished,+32.137,1:14.117,40,206.867
+2024,15,zandvoort,6,8.0,perez,PER,11,Sergio,Pérez,1990-01-26,Mexican,Red Bull,Austrian,5,72,Finished,+39.542,1:14.587,69,205.563
+2024,15,zandvoort,7,6.0,russell,RUS,63,George,Russell,1998-02-15,British,Mercedes,German,4,72,Finished,+44.617,1:13.927,57,207.399
+2024,15,zandvoort,8,4.0,hamilton,HAM,44,Lewis,Hamilton,1985-01-07,British,Mercedes,German,14,72,Finished,+49.599,1:13.878,62,207.536
+2024,15,zandvoort,9,2.0,gasly,GAS,10,Pierre,Gasly,1996-02-07,French,Alpine F1 Team,French,9,71,+1 Lap,0,1:14.855,54,204.828
+2024,15,zandvoort,10,1.0,alonso,ALO,14,Fernando,Alonso,1981-07-29,Spanish,Aston Martin,British,7,71,+1 Lap,0,1:14.758,34,205.093
+2024,15,zandvoort,11,0.0,hulkenberg,HUL,27,Nico,Hülkenberg,1987-08-19,German,Haas F1 Team,American,12,71,+1 Lap,0,1:15.657,59,202.656
+2024,15,zandvoort,12,0.0,ricciardo,RIC,3,Daniel,Ricciardo,1989-07-01,Australian,RB F1 Team,Italian,13,71,+1 Lap,0,1:15.222,52,203.828
+2024,15,zandvoort,13,0.0,stroll,STR,18,Lance,Stroll,1998-10-29,Canadian,Aston Martin,British,8,71,+1 Lap,0,1:15.255,51,203.739
+2024,15,zandvoort,14,0.0,albon,ALB,23,Alexander,Albon,1996-03-23,Thai,Williams,British,19,71,+1 Lap,0,1:14.434,71,205.986
+2024,15,zandvoort,15,0.0,ocon,OCO,31,Esteban,Ocon,1996-09-17,French,Alpine F1 Team,French,15,71,+1 Lap,0,1:15.390,50,203.374
+2024,15,zandvoort,16,0.0,sargeant,SAR,2,Logan,Sargeant,2000-12-31,American,Williams,British,18,71,+1 Lap,0,1:15.539,26,202.973
+2024,15,zandvoort,17,0.0,tsunoda,TSU,22,Yuki,Tsunoda,2000-05-11,Japanese,RB F1 Team,Italian,11,71,+1 Lap,0,1:15.552,16,202.938
+2024,15,zandvoort,18,0.0,kevin_magnussen,MAG,20,Kevin,Magnussen,1992-10-05,Danish,Haas F1 Team,American,0,71,+1 Lap,0,1:14.954,42,204.557
+2024,15,zandvoort,19,0.0,bottas,BOT,77,Valtteri,Bottas,1989-08-28,Finnish,Sauber,Swiss,16,70,+2 Laps,0,1:15.822,45,202.215
+2024,15,zandvoort,20,0.0,zhou,ZHO,24,Guanyu,Zhou,1999-05-30,Chinese,Sauber,Swiss,17,70,+2 Laps,0,1:15.724,67,202.477
