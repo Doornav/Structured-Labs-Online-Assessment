@@ -26,7 +26,7 @@ for _, row in latest_driver_info.iterrows():
 # -------------------------------------------
 # Select driver and show info
 # -------------------------------------------
-text("# F1 2024 Driver's Standings)
+text("# F1 2024 Driver's Standings")
 
 selected_code = selectbox(
     label="Choose a Driver",
